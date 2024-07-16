@@ -108,7 +108,7 @@ function page4Animation(){
 }
 
 
-// navAnimation()
+navAnimation()
 page2animation()
 page3videoanimation()
 page4Animation()
